@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Phimos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phimos)](https://github.com/phimos/github-readme-stats)
 
 <!--

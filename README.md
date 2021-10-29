@@ -2,6 +2,10 @@
 
 [![Phimos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phimos&show_icons=true&theme=dark)](https://github.com/phimos/github-readme-stats)
 
+If you find something useful here, you can buy me a cup of coffee. 😄
+
+<a href="https://www.buymeacoffee.com/YunchongGan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <!--
 **Phimos/Phimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

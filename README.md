@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 -->
 
 
-**BTW**: Always looking for competition partners!
+**BTW**: Always looking for competition partners! 🙌
+

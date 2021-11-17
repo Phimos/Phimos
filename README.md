@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+**BTW**: Always looking for competition partners!
